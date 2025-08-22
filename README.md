@@ -1,4 +1,4 @@
 # furniro
 
 live preview
-https://nazneenakterdeveloper.github.io/furniro/
+https://github.com/Nazneendev/furniro/settings/pages
